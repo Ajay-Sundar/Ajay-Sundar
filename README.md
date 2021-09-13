@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ajay-Sundar
-- 👀 I’m interested in Python ,Java, Mobile apps
+- 👀 I’m interested in Python and Data Science
 - 🌱 I’m currently learning Python , Flutter
-- 💞️ I’m looking to collaborate on Python
+- 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me ajaysundar140@gmail.com
 
 <!---
